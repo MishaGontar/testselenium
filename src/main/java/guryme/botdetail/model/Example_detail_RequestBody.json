@@ -1,0 +1,7 @@
+{
+  "receiver": "John",
+  "iban": "UA123456",
+  "edrpou": "3752405154",
+  "amount": "100",
+  "destination": "SomePlace"
+}

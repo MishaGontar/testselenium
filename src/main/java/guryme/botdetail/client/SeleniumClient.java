@@ -31,6 +31,7 @@ public class SeleniumClient {
     WebDriver driver = new ChromeDriver();
 
     // WebDriverWait with a timeout of 10 seconds
+    @Getter
     WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
     /**
